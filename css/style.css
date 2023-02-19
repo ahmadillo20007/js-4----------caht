@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  
+  .counter {
+    font-size: 6rem;
+    margin-bottom: 2rem;
+  }
+  
+  .buttons {
+    display: flex;
+  }
+  
+  button {
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    margin-right: 1rem;
+  }
+  
